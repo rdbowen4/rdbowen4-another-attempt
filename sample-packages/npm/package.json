@@ -1,3 +1,8 @@
 {
   "your": "json config here"
 }
+"repository": {
+  "type": "git",
+  "url": "https://github.com/rdbowen4/rdbowen4-another-attempt.git"
+}
+
